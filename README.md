@@ -2,7 +2,7 @@
 
 It can manage the ticketing system of a cinema hall,
 
-##Examples
+## Examples
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
 
 Enter the number of rows:
